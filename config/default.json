@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://ryn:ryn@cluster0.2acskxk.mongodb.net/?retryWrites=true&w=majority"
+  }
